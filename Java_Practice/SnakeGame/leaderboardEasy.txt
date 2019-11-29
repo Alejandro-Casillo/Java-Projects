@@ -1,0 +1,16 @@
+Den	170	easy
+Astrid	130	easy
+renzo	115	easy
+Ale	75	easy
+KUK	60	easy
+Jack	50	easy
+Ale	30	easy
+Den	170	easy
+Zai	25	easy
+Paul	20	easy
+Den	170	easy
+Wicket	10	easy
+Mom	10	easy
+Nat	5	easy
+John	5	easy
+Lu	0	easy

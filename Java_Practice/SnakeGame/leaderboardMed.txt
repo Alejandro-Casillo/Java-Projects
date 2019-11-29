@@ -1,0 +1,2 @@
+Lu	60	med
+Ale	60	med
