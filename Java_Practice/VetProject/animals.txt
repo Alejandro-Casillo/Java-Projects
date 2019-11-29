@@ -1,0 +1,14 @@
+Ale,22,Cat, None,Brown,Al3C5 
+Lu,21,Cat,Orange,Green,Lu0C2O
+Nat,25,Dog,Black,Brown,Na3D8B
+Wicket,1,Cat,Black,Green,Wi1C3B
+Bob,23,Rabbit,Gray,Black,Bo1R7G
+Mike,21,Pig,White,Blue,Mi3P8W
+Renzo,54,Rabbit,Orange,Hazel,Re3R4O
+Zahira,61,Rabbit,White,Brown,Za2R1W
+renzo,55,Fish,White,Black,re8F8W
+Natalia,24,Bird,Black,Blue,Na7B2B
+Cool beans,213,Rabbit,White,Hazel,Co3R4W
+Lago,1,Rabbit, Black n white,Red,La5R6 
+Joey,54,Rabbit,Golden,Blue,Jo5R4G
+Rob,923,Fish, neon,Red,Ro4F1 
